@@ -1,0 +1,11 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Starting UART Test (Loopback)...
+PASS: Got 0xa5
+[82195000] Received: 0xa5
+PASS: Got 0x3c
+[168595000] Received: 0x3c
+PASS: Got 0xff
+
+ALL TESTS PASSED!
+$finish called at time : 254985 ns : File "C:/Users/MuhammadAhsanKareem/Desktop/UART_Project/UART_Project.srcs/sim_1/new/uart_test.v" Line 92

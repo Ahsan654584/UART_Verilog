@@ -1,0 +1,7 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/MuhammadAhsanKareem/Desktop/UART_Project/UART_Project.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/MuhammadAhsanKareem/Desktop/UART_Project/UART_Project.srcs/sim_1/new/uart_test.v,1764101895,verilog,,,,uart_tb,,,,,,,,
+C:/Users/MuhammadAhsanKareem/Desktop/UART_Project/UART_Project.srcs/sources_1/new/uart_design.v,1764107202,verilog,,C:/Users/MuhammadAhsanKareem/Desktop/UART_Project/UART_Project.srcs/sim_1/new/uart_test.v,,baud_rate_generator;uart_rx;uart_top;uart_tx,,,,,,,,
